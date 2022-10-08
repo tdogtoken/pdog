@@ -1,10 +1,9 @@
-#Pitcoin
-<p> <a href="https://github.com/tdogtoken/pitcoinwallet" target="_blank" class="button">Pitcoin Wallet Linux Version</a></P>    
-     Pitcoin is a private secure untraceable decentralized cryptocurrency. It was created for everyone especially for individual investor and trader, you control your own Pitcoin, no one knows how many Pitcoin you are holding, only you know your own. Sounds good, right? haha. Honestly, Bitcoin and other altcoin such as ETH LUNA DOGE and so on, they are not anonymous cryptocurrency, they can be trackable. However, Pitcoin is a truly anonymous privacy coin, symbol: PBTC, total supply:18,446,744 coins.
+# Pitcoin
+<p> <a href="https://github.com/tdogtoken/pitcoinwallet" target="_blank" class="button">Pitcoin Wallet Linux Version</a></P> 
+Pitcoin is a private secure untraceable decentralized cryptocurrency. It was created for everyone especially for individual investor and trader, you control your own Pitcoin, no one knows how many Pitcoin you are holding, only you know your own. Sounds good, right? haha. Honestly, Bitcoin and other altcoin such as ETH LUNA DOGE and so on, they are not anonymous cryptocurrency, they can be trackable. However, Pitcoin is a truly anonymous privacy coin, symbol: PBTC, total supply:18,446,744 coins.
      And the best part, we want everyone to learn running your own Pitcoin node own wallet and own mining some Pitoin, so everyone learns some expert administrative skills. The below procedure and video guide show you how to do that.
-     If you are expert on crypto and know some basic Linux administrative file command, below is the Pitcoin simplewallet miner node file and source code, you can start to mine your own Pitcoin with laptop or desktop.
-
-<P><a href="https://github.com/tdogtoken/PitcoinCLI" target="_blank" class="button">PitcoinCLI(command line interface) simplewallet miner and node file</a> </P>
+     If you are expert on crypto and know some basic Linux administrative file command, below is the Pitcoin simplewallet miner node file and source code, you can start to mine your own Pitcoin with laptop or desktop. 
+     <P><a href="https://github.com/tdogtoken/PitcoinCLI" target="_blank" class="button">PitcoinCLI(command line interface) simplewallet miner and node file</a> </P>
      <P><a href="https://github.com/tdogtoken/PitcoinSourceCode" target="_blank" class="button">Pitcoin Source Code</a> </P>
  <P> We are going to store and use Pitcoin inside computer of computer (跌中跌,升中升,计中计)(sounds more secure, haha). To get start, please follow below procedure and watch the video guide link:</P>
 <p> 1. Download and Install Oracle VM VirtualBOX:  <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" class="button">Download VirtualBOX</a></P>
@@ -51,7 +50,4 @@
 <P><a href="https://youtu.be/vlY-swnMwCI" target="_blank" class="button">Store Mine and Transfer Pitcoin Video Part3</a> </P>
 <P><a href="https://youtu.be/tgZbx-UvhZU" target="_blank" class="button">Store Mine and Transfer Pitcoin Video Part4</a> </P>
 <P><a href="https://youtu.be/6g8c247Use8" target="_blank" class="button">Store Mine and Transfer Pitcoin Video Part5</a> </P>
-# 100dog
-Welcome to 100Dog Token Platform (狗窝网) ( We moved to here from previous website: Lesp888.info )
-100DOG token is a unique and fully decentralized TRC20 token on Tron blockchain. And 80% coin locked in Liquidity pool, it means one dog coin price will never go below 100TRX.
-https://lesp888.github.io/100dog
+
