@@ -1,6 +1,6 @@
 # Pitcoin
 <p> <a href="https://github.com/tdogtoken/pitcoinwallet" target="_blank" class="button">Pitcoin Wallet Linux Version</a></P> 
-<p> <a href="https://youtu.be/Zk-xp5xiiGY" target="_blank" class="button">Pitcoin Wallet Video Guide</a></P> 
+<p> <a href="https://youtu.be/Zk-xp5xiiGY" target="_blank" class="button">Pitcoin Wallet Linux Video Guide</a></P> 
 Pitcoin is a private secure untraceable decentralized cryptocurrency. It was created for everyone especially for individual investor and trader, you control your own Pitcoin, no one knows how many Pitcoin you are holding, only you know your own. Sounds good, right? haha. Honestly, Bitcoin and other altcoin such as ETH LUNA DOGE and so on, they are not anonymous cryptocurrency, they can be trackable. However, Pitcoin is a truly anonymous privacy coin, symbol: PBTC, total supply:18,446,744 coins.
      And the best part, we want everyone to learn running your own Pitcoin node own wallet and own mining some Pitoin, so everyone learns some expert administrative skills. The below procedure and video guide show you how to do that.
      If you are expert on crypto and know some basic Linux administrative file command, below is the Pitcoin simplewallet miner node file and source code, you can start to mine your own Pitcoin with laptop or desktop. 
